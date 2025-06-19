@@ -8,7 +8,7 @@ React, Firebase, Tailwind CSS, Vite
 ##  Setup Instructions
 
 Step 1: Clone the repo  
-git clone https://github.com/praveenstp09/Login_Signup.git  
+git clone https://github.com/praveenstp09/login_signup_assignment.git  
 cd Login_Signup
 
 Step 2: Install dependencies  
